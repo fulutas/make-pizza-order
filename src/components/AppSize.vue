@@ -34,8 +34,9 @@ export default {
   margin-top: 5rem;
   padding: 0.5rem;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+  gap: 2rem;
 }
 
 button {
