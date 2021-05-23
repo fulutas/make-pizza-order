@@ -1,4 +1,4 @@
-# pizza-app
+# Make Pizza Order
 
 ## Project setup
 ```
